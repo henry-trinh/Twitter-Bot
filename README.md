@@ -1,3 +1,5 @@
+Host Site: http://intro-to-python-ii.glitch.me/
+
 AI bot using Twitter API. Uses Flask and Pythonai bot with Twitter API
 
 ![](https://user-images.githubusercontent.com/87113091/181373266-acfa4e7d-bf64-4708-967e-810f1cfb4332.gif)
@@ -24,5 +26,3 @@ This folder contains the JavaScript, CSS and images that the web app uses.
 
 ← homepage.html
 This launches the webpage of the Twitter app.
-
-Host Site: http://intro-to-python-ii.glitch.me/
